@@ -1,0 +1,4 @@
+C:\Users\Icii White\Desktop\Mod_it\obj\Release\net8.0-windows\win-x64\ModIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icii White\Desktop\Mod_it\obj\Release\net8.0-windows\win-x64\ModIt.AssemblyInfoInputs.cache
+C:\Users\Icii White\Desktop\Mod_it\obj\Release\net8.0-windows\win-x64\ModIt.AssemblyInfo.cs
+C:\Users\Icii White\Desktop\Mod_it\obj\Release\net8.0-windows\win-x64\ModIt.csproj.CoreCompileInputs.cache
